@@ -16,9 +16,9 @@
  </ul>
 
 <h3>기술 스택</h3>
-  C++(알고리즘용), JAVA(Spring+Mybatis+Tomcat), html+css+js, Mysql, Trello, Github(SourceTree)<br>
+  C++(알고리즘), JAVA(Spring+Mybatis+Tomcat), html+css+js, Mysql, Trello, Github(SourceTree), Docker(연습중)<br>
  
- <h3>활동(프로젝트 등) 경력)</h3>
+ <h3>프로젝트 경력</h3>
   <ul>
   <li>2018.11. 인천창조경제혁신센터 혁신 아이디어 메이커톤 출전 - 미세먼지와 흡연자를 동시에 탐지하는 스마트 가로등(웹 솔루션, Spring, Mysql 담당) </li>
   <br>
