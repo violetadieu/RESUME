@@ -15,6 +15,13 @@
   <li>인하대학교 컴퓨터공학과 전과(2020)</li>
  </ul>
 
+<h3>어학</h3>
+<ul>
+  <li>영어 - OPIC IM2</li>
+  <li>일본어 - JLPT N3</li>
+  <li>프랑스어 - DELF A2</li>
+  <li>한국어 - 제일못함</li>
+</ul>
 <h3>기술 스택</h3>
   C++(알고리즘), JAVA(Spring+Mybatis+Tomcat), html+css+js, Mysql, Trello, Github(SourceTree), Docker(연습중)<br>
  
