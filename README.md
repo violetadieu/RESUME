@@ -6,7 +6,7 @@
 - 나이 : 24세<br>
 - Email : akxldk2@naver.com<br>
 - GitHub : https://github.com/violetadieu<br>
-- 취미 : 아이번, DJMAX Respect<br>
+- 취미 : 롤 아이번, DJMAX Respect, 책<br>
 
 <h3>학력</h3>
 <ul>
@@ -20,7 +20,7 @@
   <li>영어 - OPIC IM2</li>
   <li>일본어 - JLPT N3</li>
   <li>프랑스어 - DELF A2</li>
-  <li>한국어 - 제일못함</li>
+  <li>한국어 - 제일못함, 잘하고싶다.</li>
 </ul>
 <h3>기술 스택</h3>
   C++(알고리즘), JAVA(Spring+Mybatis+Tomcat), html+css+js, Mysql, Trello, Github(SourceTree), Docker(연습중)<br>
@@ -30,7 +30,7 @@
   <li>2018.11. 인천창조경제혁신센터 혁신 아이디어 메이커톤 출전 - 미세먼지와 흡연자를 동시에 탐지하는 스마트 가로등(웹 솔루션, Spring, Mysql 담당) </li>
   <br>
   <li>2019.03. 서울시 하드웨어 해커톤 출전 - 독거노인의 위급상황 탐지 IOT 솔루션(Azure 웹 서버 및 웹 솔루션 담당)</li><br>
-  <li>2019.04.~2019.11. 한국정보산업연합회 소속 SW 마에스트로 10기 수료(공공복지 사각지대 최소화를 위한 복지 챗봇 서비스 - 팀장 및 데이터 가공, 형태소 분석 담당)</li><br>
+  <li>2019.04.~2019.11. 한국정보산업연합회 소속 SW 마에스트로 10기 수료(공공복지 사각지대 최소화를 위한 복지 챗봇 서비스 - 팀장(발표, 문서작성, 인터뷰 취재 등) 및 데이터 가공, 형태소 분석 담당)</li><br>
  </ul>
 
 <h3>근무 경력</h3>
