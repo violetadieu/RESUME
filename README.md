@@ -6,7 +6,7 @@
 - 나이 : 24세<br>
 - Email : akxldk2@naver.com<br>
 - GitHub : https://github.com/violetadieu<br>
-- 취미 : 롤 아이번, DJMAX Respect, 독서<br>
+- 취미 : 롤 아이번, DJMAX Respect, 독서, 철권<br>
 
 <h3>학력</h3>
 <ul>
@@ -24,7 +24,7 @@
   <li>한국어 - 원어민</li>
 </ul>
 <h3>기술 스택</h3>
-  C++(알고리즘), JAVA(알고리즘, Spring+Mybatis+Tomcat), html+css+js, Mysql, Trello, Github(SourceTree), Docker(연습중)<br>
+  C++(알고리즘), JAVA(알고리즘, Spring+Mybatis+Tomcat), html+css+js,Cafe24 Hosting, Mysql, Trello, Github(SourceTree), Docker(연습중)<br>
  
  <h3>프로젝트 경력</h3>
   <ul>
