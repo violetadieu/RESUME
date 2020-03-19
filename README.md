@@ -36,7 +36,6 @@
 
 <h3>근무 경력</h3>
  <ul>
-  <li>2018.11.~12. 진학사어플라이 웹 서비스팀 스크립트 수정 풀타임 (JavaScript, MYSQL View, OZ)</li>
   <li>2019.01.~02. 팀엘리시움 ipp 현장실습 인턴 - 네이버 등 포털서비스 검색결과 조정 프로젝트(Spring, Tomcat, Jsoup)</li><br>
   <li>2019.12.~2020.02. 행복한 다람쥐단 ipp 현장실습 인턴 - 정치 관련 커뮤니티 앱 제작 프로젝트(Spring, Cafe24, Tomcat, RESTFUL API, Swagger)</li><br>
  </ul>
