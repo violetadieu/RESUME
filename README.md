@@ -4,6 +4,7 @@
 <br>
 - 이름 : 김동현<br>
 - 나이 : 24세<br>
+- 학교 : 인하대학교 컴퓨터공학과 4학년 재학중(2020년 기준)
 - Email : akxldk2@naver.com<br>
 - GitHub : https://github.com/violetadieu<br>
 - 취미 : 롤 아이번, DJMAX Respect, 독서, 철권<br>
