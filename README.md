@@ -36,6 +36,6 @@
 
 <h3>사내 프로젝트 경력</h3>
  <ul>
-  <li>2019.01.~02. 팀엘리시움 ipp 현장실습 인턴 - 네이버 등 포털서비스 검색결과 조정 프로젝트(Spring, Tomcat, Jsoup)</li><br>
-  <li>2019.12.~2020.02. 행복한 다람쥐단 ipp 현장실습 인턴 - 정치 관련 커뮤니티 앱 제작 프로젝트(Spring, Cafe24, Tomcat, RESTFUL API, Swagger)</li><br>
+  <li>2019.01.~02. 팀엘리시움 ipp 현장실습 인턴 - 네이버 등 포털서비스 검색결과 조정 프로젝트(Spring, Tomcat, Jsoup, wireshark, linkliar)</li><br>
+  <li>2019.12.~2020.02. 행복한 다람쥐단 ipp 현장실습 인턴 - 정치 관련 커뮤니티 앱 제작 프로젝트(Spring, Cafe24 hosting, Tomcat, RESTFUL API, Swagger)</li><br>
  </ul>
