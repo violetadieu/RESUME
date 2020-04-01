@@ -7,7 +7,7 @@
 - 학교 : 인하대학교 컴퓨터공학과 4학년 재학중<br>
 - Email : akxldk2@naver.com<br>
 - GitHub : https://github.com/violetadieu<br>
-- 취미 : 롤 아이번, DJMAX Respect, 독서<br>
+- 취미 : 게임, 책, 덕질<br>
 
 <h3>학력</h3>
 <ul>
