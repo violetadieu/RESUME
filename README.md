@@ -4,7 +4,7 @@
 <br>
 - 이름 : 김동현<br>
 - 나이 : 24세<br>
-- 학교 : 인하대학교 컴퓨터공학과 4학년 재학중(2020년 기준)<br>
+- 학교 : 인하대학교 컴퓨터공학과 4학년 재학중<br>
 - Email : akxldk2@naver.com<br>
 - GitHub : https://github.com/violetadieu<br>
 - 취미 : 롤 아이번, DJMAX Respect, 독서<br>
@@ -23,7 +23,7 @@
   <li>한국어 - 원어민</li>
 </ul>
 <h3>기술 스택</h3>
-  C++(알고리즘), JAVA(알고리즘, Spring+Mybatis+Tomcat), html+css+js,Cafe24 Hosting, Mysql, Trello, Github(SourceTree), Docker(연습중)<br>
+  C++(알고리즘), JAVA(알고리즘, Spring+Mybatis+Tomcat), html+css+js, Mysql, Trello, Github(SourceTree), Docker(연습중)<br>
  
  <h3>개인(팀) 프로젝트 경력</h3>
   <ul>
