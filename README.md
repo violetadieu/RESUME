@@ -20,10 +20,9 @@
   <li>영어 - OPIC IM2</li>
   <li>일본어 - JLPT N3</li>
   <li>프랑스어 - DELF A2</li>
-  <li>한국어 - 원어민</li>
 </ul>
 <h3>기술 스택</h3>
-  C++(알고리즘), JAVA(알고리즘, Spring+Mybatis+Tomcat), html+css+js, Mysql, Trello, Github(SourceTree), Docker(연습중)<br>
+  C++(알고리즘), JAVA(알고리즘, Spring), html+css+js, Mysql, Trello, Github(SourceTree), Docker(연습중)<br>
  
  <h3>개인(팀) 프로젝트 경력</h3>
   <ul>
