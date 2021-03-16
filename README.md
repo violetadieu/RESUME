@@ -1,5 +1,5 @@
 # 이력서
-<h3>소개</h3>
+<h2>인적사항</h2>
 <img src="https://github.com/violetadieu/RESUME/blob/master/selfie.jpeg?raw=true"/>
 <br>
 - 이름 : 김동현<br>
