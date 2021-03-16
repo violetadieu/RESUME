@@ -11,7 +11,7 @@
 - Email : akxldk2@naver.com<br>
 - GitHub : https://github.com/violetadieu<br>
 - 취미 : 게임, 책, 덕질<br>
-- 
+
 <section>
 <h2>학력</h2>
 <ul>
@@ -29,8 +29,40 @@
  </section>
 
  <section>
-<h2>기술 스택</h2>
+  <h2>Skills<span class="period-mark">.</span></h2>
+    <div class="other">
+      <h3>Overall<span class="period-mark">.</span></h3>
+      <ul>
+        <li>1234</li>
+      <ul>
+    </div>
+    <div class="other">
+      <h3>Java<span class="period-mark">.</span></h3>
+      <ul>
+        <li>1234</li>
+      <ul>
+    </div>
+    <div class="other">
+      <h3>Mysql<span class="period-mark">.</span></h3>
+      <ul>
+        <li>1234</li>
+      <ul>
+    </div>
+    <div class="other">
+      <h3>Tooling<span class="period-mark">.</span></h3>
+      <ul>
+        <li>1234</li>
+      <ul>
+    </div>
+    <div class="other">
+      <h3>DevOps<span class="period-mark">.</span></h3>
+      <ul>
+        <li>1234</li>
+      <ul>
+    </div>
+    
   C++(알고리즘), JAVA(알고리즘, Spring), html+css+js, Mysql, Trello, Github(SourceTree), Docker(연습중)<br>
+
  </section>
 
  <section>
