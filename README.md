@@ -1,6 +1,6 @@
 <section>
   <h1>반갑습니다.<br>
-  저는 김동현입니다."</h1>
+  "저는 김동현입니다."</h1>
 </section>
 <h2>인적사항</h2>
 <img src="https://github.com/violetadieu/RESUME/blob/master/selfie.jpeg?raw=true"/>
@@ -11,15 +11,16 @@
 - Email : akxldk2@naver.com<br>
 - GitHub : https://github.com/violetadieu<br>
 - 취미 : 게임, 책, 덕질<br>
+- 
 <section>
-<h3>학력</h3>
+<h2>학력</h2>
 <ul>
   <li>인하대학교사범대학부속고등학교 졸업(2013~2015)</li>
   <li>인하대학교 컴퓨터공학과 4학년 졸업 (2016~2021)</li>
 </ul>
 </section>
 <section>
-<h3>어학</h3>
+<h2>어학</h2>
 <ul>
   <li>영어 - OPIC IM2</li>
   <li>일본어 - JLPT N3</li>
@@ -28,12 +29,12 @@
  </section>
 
  <section>
-<h3>기술 스택</h3>
+<h2>기술 스택</h2>
   C++(알고리즘), JAVA(알고리즘, Spring), html+css+js, Mysql, Trello, Github(SourceTree), Docker(연습중)<br>
  </section>
 
  <section>
- <h3>개인(팀) 프로젝트 경력</h3>
+ <h2>개인(팀) 프로젝트 경력</h2>
   <ul>
   <li>2017.11.~12. 언론 스타트업 홈페이지 외주(워드프레스, html, css, js, 현재 해당 스타트업 폐업 후 홈페이지 삭제)</li><br>
   <li>2018.11. 인천창조경제혁신센터 혁신 아이디어 메이커톤 출전 - 미세먼지와 흡연자를 동시에 탐지하는 스마트 가로등(웹 솔루션, Spring, Mysql 담당) </li>
@@ -44,7 +45,7 @@
 </section>
 
 <section>
-<h3>사내 프로젝트 경력</h3>
+<h2>사내 프로젝트 경력</h2>
  <ul>
   <li>2019.01.~02. 팀엘리시움 ipp 현장실습 인턴 - 네이버 등 포털서비스 검색결과 조정 프로젝트(Spring, Tomcat, Jsoup, wireshark, linkliar)</li><br>
   <li>2019.12.~2020.02. 행복한 다람쥐단 ipp 현장실습 인턴 - 정치 관련 커뮤니티 앱 제작 프로젝트(Spring, Cafe24 hosting, Tomcat, RESTFUL API, Swagger)</li><br>
