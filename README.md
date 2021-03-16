@@ -3,8 +3,8 @@
 <img src="https://github.com/violetadieu/RESUME/blob/master/selfie.jpeg?raw=true"/>
 <br>
 - 이름 : 김동현<br>
-- 나이 : 24세<br>
-- 학교 : 인하대학교 컴퓨터공학과 4학년 재학중<br>
+- 나이 : 25세<br>
+- 학교 : 인하대학교 컴퓨터공학과 졸업<br>
 - Email : akxldk2@naver.com<br>
 - GitHub : https://github.com/violetadieu<br>
 - 취미 : 게임, 책, 덕질<br>
@@ -12,7 +12,7 @@
 <h3>학력</h3>
 <ul>
   <li>인하대학교사범대학부속고등학교 졸업(2013~2015)</li>
-  <li>인하대학교 컴퓨터공학과 4학년 재학중 (2016~2021 )</li>
+  <li>인하대학교 컴퓨터공학과 4학년 졸업 (2016~2021)</li>
 </ul>
 
 <h3>어학</h3>
