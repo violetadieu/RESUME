@@ -37,6 +37,7 @@
         <li>전문 분야는 아니더라도 적극적인 참여를 통해 더 나은 결과를 도출할 수 있도록 노력합니다.</li>
         <li>상대방의 감정을 해치지 않는 선에서 솔직하고 직설적인 커뮤니케이션을 선호합니다.</li>
         <li>항상 효율적인 일처리를 위히 노력합니다.</li>
+        <li>눈으로만 보지 않고, 직접 실습하거나 기록해가며 공부합니다.</li>
       <ul>
     </div>
     <div class="other">
@@ -78,9 +79,6 @@
         <li>또한 부족한 Docker 개발 경험을 보완하기 위해 꾸준히 학습 중입니다.</li>
       <ul>
     </div>
-    
-  C++(알고리즘), JAVA(알고리즘, Spring), html+css+js, Mysql, Trello, Github(SourceTree), Docker(연습중)<br>
-
  </section>
 
  <section>
