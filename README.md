@@ -93,10 +93,11 @@
 </section>
 
 <section>
-<h2>사내 프로젝트 경험
+<h2>인턴 경험
   </h2>
  <ul>
-  <li>2019.01.~02. 팀엘리시움 ipp 현장실습 인턴 - 네이버 등 포털서비스 검색결과 조정 프로젝트(Spring, Tomcat, Jsoup, wireshark, linkliar)</li><br>
-  <li>2019.12.~2020.02. 행복한 다람쥐단 ipp 현장실습 인턴 - 정치 관련 커뮤니티 앱 제작 프로젝트(Spring, Cafe24 hosting, Tomcat, RESTFUL API, Swagger)</li><br>
+  <li>2019.01~02 팀엘리시움 ipp 현장실습 인턴 - 네이버 등 포털서비스 검색결과 조정 프로젝트(Spring, Tomcat, Jsoup, wireshark, linkliar)</li><br>
+  <li>2019.12~2020.02 행복한 다람쥐단 ipp 현장실습 인턴 - 정치 관련 커뮤니티 앱 제작 프로젝트(Spring, Cafe24 hosting, Tomcat, RESTFUL API, Swagger)</li><br>
+   <li>2021.07~2021.08 엔테크서비스 하계 인턴 - 부스트코스 웹 풀스택 과정 이수 및 과제 프로젝트 수행(Spring, Jsp, Javascript, Mysql, Mybatis)</li>
  </ul>
 </section>
