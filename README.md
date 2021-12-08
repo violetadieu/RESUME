@@ -3,7 +3,6 @@
   "저는 김동현입니다."</h1>
 </section>
 <h2>인적사항</h2>
-<img src="https://github.com/violetadieu/RESUME/blob/master/selfie.jpeg?raw=true"/>
 <br>
 - 이름 : 김동현<br>
 - 나이 : 25세<br>
