@@ -22,7 +22,7 @@
 <h2>어학</h2>
 <ul>
   <li>영어 - OPIC IM2</li>
-  <li>일본어 - JLPT N3</li>
+  <li>일본어 - JLPT N2</li>
   <li>프랑스어 - DELF A2</li>
 </ul>
  </section>
