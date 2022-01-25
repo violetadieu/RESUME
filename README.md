@@ -5,7 +5,7 @@
 <h2>인적사항</h2>
 <br>
 - 이름 : 김동현<br>
-- 나이 : 25세<br>
+- 나이 : 26세<br>
 - 학교 : 인하대학교 컴퓨터공학과 졸업<br>
 - Email : akxldk2@naver.com<br>
 - GitHub : https://github.com/violetadieu<br>
