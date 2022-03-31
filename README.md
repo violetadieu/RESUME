@@ -16,6 +16,7 @@
 <ul>
   <li>인하대학교사범대학부속고등학교 졸업(2013~2015)</li>
   <li>인하대학교 컴퓨터공학과 4학년 졸업 (2016~2021)</li>
+  <li>인하대학교 대학원 인공지능전공 석사과정 재학 (2022~)</
 </ul>
 </section>
 <section>
@@ -78,6 +79,12 @@
         <li>또한 부족한 Docker 개발 경험을 보완하기 위해 꾸준히 학습 중입니다.</li>
       <ul>
     </div>
+    <div class="other">
+      <h3>Machine learning <span class="period-mark">.</span></h3>
+      <ul>
+        <li>수업을 통해 머신 러닝의 기초를, kaggle을 통해 머신 러닝의 실습을 학습했습니다.</li>
+        <li>한국어 NLP를 공부하면서 bert, klue 등 다양한 모델에 대해 논문을 읽고 리뷰하며 모델을 분석한 적이 있습니다.</li>
+        <li>한국어 텍스트에서 유의미한 정보를 추출하기 위해 형태소분석, 의미 유사도 분석 등 다양한 시도를 한 적이 있습니다.</li>
  </section>
 
  <section>
@@ -98,5 +105,14 @@
   <li>2019.01~02 팀엘리시움 ipp 현장실습 인턴 - 네이버 등 포털서비스 검색결과 조정 프로젝트(Spring, Tomcat, Jsoup, wireshark, linkliar)</li><br>
   <li>2019.12~2020.02 행복한 다람쥐단 ipp 현장실습 인턴 - 정치 관련 커뮤니티 앱 제작 프로젝트(Spring, Cafe24 hosting, Tomcat, RESTFUL API, Swagger)</li><br>
    <li>2021.07~2021.08 엔테크서비스 하계 인턴 - 부스트코스 웹 풀스택 과정 이수 및 과제 프로젝트 수행(Spring, Jsp, Javascript, Mysql, Mybatis)</li>
+ </ul>
+</section>
+      
+<section>
+<h2>연구 경험
+  </h2>
+ <ul>
+  <li>2021.09~ 한국어 교육용 자연어처리 모델 개발</li><br>
+  <li>2022.02~ 한국어 텍스트 결속성 측정 모델 개발 및 논문 작성</li><br>
  </ul>
 </section>
