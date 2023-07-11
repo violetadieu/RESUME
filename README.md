@@ -9,6 +9,7 @@
 - 학교 : 인하대학교 컴퓨터공학과 졸업<br>
 - Email : akxldk2@naver.com<br>
 - GitHub : https://github.com/violetadieu<br>
+- HuggingFace : https://huggingface.co/KDHyun08<br>
 - 취미 : 게임, 책, 덕질<br>
 
 <section>
